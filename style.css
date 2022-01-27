@@ -37,7 +37,7 @@ img {
     max-width: 100%;
 }
 #header .container .logo {
-    width: 50px;
+width: 50px;
 }
 .hamburger{
   display: none;
@@ -427,6 +427,7 @@ img {
       }
       #header .container .logo {
           margin-left: 20px;
+          max-width: 50px;
       }
       #header .container .menu ul {
           flex-direction: column;
